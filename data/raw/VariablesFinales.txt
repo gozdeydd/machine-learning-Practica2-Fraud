@@ -1,0 +1,22 @@
+step: unidad de tiempo, 1 = 1 hora
+type: tipo
+amount: cantidad
+gender: género (informado por el cliente)
+device: tipo del dispositivo que inicio la transacción
+connection_time: segundos que tardan en llegar los datos desde la conexión entrante
+nameOrig: identificador del cliente que inicia la transacción
+race: raza
+oldbalanceOrg: saldo antes de la transacción
+age: edad estimada
+newbalanceOrig: saldo después
+nameDest: receptor de la transacción
+user_connections: conexiones del mismo usuario ese día
+security_alert: si existía una alerta de seguridad ese día emitida por las autoridades
+oldbalanceDest: balance inicial del destinatario
+newbalanceDest: balance final del destinatario
+zone: lugar inferida del origen de la transacción
+user_number: usuarios concurrentes en la web en el momento de hacer la transacción
+isFraud: etiqueda de fraude verificada
+
+OJO, que hay números que tienen decimales con coma y otros con punto
+
