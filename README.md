@@ -3,8 +3,7 @@ This repository is prepared by Gozde Yazganoglu Delgado Doblas and Irma Sanchez 
 gozde.yazganoglu@cunef.edu
 irma.sanchez@cunef.edu
 
-git@github.com:gozdeydd/machine-learning-Practica1-EDA.git
-https://github.com/gozdeydd/machine-learning-Practica1-EDA.git
+
 
 
 
