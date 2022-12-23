@@ -1,3 +1,7 @@
+# Analisis of Fraud
+
+
+
 
 This repository is prepared by Gozde Yazganoglu Delgado Doblas and Irma Sanchez Rubio.
 
@@ -22,7 +26,7 @@ This is an assignment we did for our "Machine Learning" course in our Master of 
 
 0.1% of the transactions in this data set, end up being in being fraud. This is very rare. However when occurs, it can create a big business damage to the banks, and to their customers. Attackers everyday try newer and much smarter ways to steal 3rd parties money from their account. Therefore, it is important to detect fraudulent transactions. At the same time, it is important to detect real fraudulent transactions but not to accuse real transactions. If we falsely accuse some customers with fraud, this can also end up with business losses. As a reuslt, apart from we did this for our assignmnet, this is an important business problem that any data scientist, would like to research. We are welcoming any comments or contributions on this project.
 
-In general in this project we have learned to deploy a project from scratch. We have done some data cleaning (not so much compared to some other datasets), we have used pipelines in our coding, we had opportunity to try differnet algorithms of machine learning and for the first time we tried library SHAP for explicability of the models.
+In general in this project we have learned to deploy a project from scratch. We have done some data cleaning (not so much compared to some other datasets), we have used pipelines in our coding, we had opportunity to try differnet supervised algorithms of machine learning and for the first time we tried library SHAP for explicability of the models.
 
 
 3. How to Install and Run the Project?
