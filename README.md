@@ -17,7 +17,7 @@ gozde.yazganoglu@cunef.edu
 irma.sanchez@cunef.edu
 
 
-1. Project Title : Fraudulent Transactions
+1. Project Title : Analisis of Fraud
 
 
 This is an assignment we did for our "Machine Learning" course in our Master of Data Science in CUNEF. We are analysing a dataset with banking transactions and tryinig to make a better guess in predicting fraudulent transactions.
