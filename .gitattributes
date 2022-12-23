@@ -1,5 +1,0 @@
-data/raw/Copia[[:space:]]de[[:space:]]Original_dataset_payments_fraud.csv filter=lfs diff=lfs merge=lfs -text
-*.parquet filter=lfs diff=lfs merge=lfs -text
-*.pickle filter=lfs diff=lfs merge=lfs -text
-*.pickle_optimizado filter=lfs diff=lfs merge=lfs -text
-*.csv filter=lfs diff=lfs merge=lfs -text
