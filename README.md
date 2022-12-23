@@ -53,9 +53,40 @@ Content of the Files:
     notebooks: Notebooks of the project.
     
     requirements.txt : enviroment requirements to be downloaded.
+    
+    
+Roadmap to Follow:
 
+    
+    01_explanatory_data_analisis.ipynb 
+    
+    02_feature_engineering.ipynb
+    
+    03-01_dummy_and-naive-bayes_models.ipynb
+    
+    03-02_logistic_regression.ipynb
+    
+    03_03.generalized_linear_model.ipynb
+    
+    03_04_support_vector_machine.ipynb
+    
+    03_05_random_forest.ipynb
+    
+    03_06_xgboost.ipynb
+    
+    03_07_LightGBM.ipynb
+    
+    03_08_desicion_tree_classifier.ipynb
+    
+    03_09_adaboost.ipynb
+    
+    04-model_selection.ipynb
+    
+    05_interpretability.ipynb
+    
 
 5. Credits
+
 
 Irma Sanchez Rubio has dedicated quite a lot of time contributing to this project. We have done it together. https://github.com/irmasanchez
 
