@@ -39,6 +39,22 @@ gozde.yazganoglu@cunef.edu
 
 irma.sanchez@cunef.edu
 
+Content of the Files:
+
+
+    data:
+        Raw: Documents downloaded from the source of the dataset.
+        Processed data: Data processed after executing the notebooks.
+
+    models: Models in pickles are saved after execution in this folder. In case of it is empty, has to be preserved in this shape anyway. Please do not delete.
+
+    htmls: Notebooks exported as html files and other outputs of the notebooks as html.
+
+    notebooks: Notebooks of the project.
+    
+    requirements.txt : enviroment requirements to be downloaded.
+
+
 5. Credits
 
 Irma Sanchez Rubio has dedicated quite a lot of time contributing to this project. We have done it together. https://github.com/irmasanchez
