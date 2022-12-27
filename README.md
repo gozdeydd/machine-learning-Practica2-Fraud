@@ -31,7 +31,7 @@ In general in this project we have learned to deploy a project from scratch. We 
 
 3. How to Install and Run the Project?
 
-We have used python version 3.10.6
+We have used python version 3.9.6
 Environment details will befound and requirements file of this project.
 
 
