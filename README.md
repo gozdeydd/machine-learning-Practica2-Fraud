@@ -66,23 +66,21 @@ Roadmap to Follow:
     
     02_feature_engineering.ipynb
     
-    03-01_dummy_and-naive-bayes_models.ipynb
+    03-01_dummy_and-naive-bayes_models.ipynb    
+      
+    03_02.generalized_linear_model.ipynb
     
-    03-02_logistic_regression.ipynb
+    03_03_support_vector_machine.ipynb
     
-    03_03.generalized_linear_model.ipynb
+    03_04_random_forest.ipynb
     
-    03_04_support_vector_machine.ipynb
+    03_05_xgboost.ipynb
     
-    03_05_random_forest.ipynb
+    03_06_LightGBM.ipynb
     
-    03_06_xgboost.ipynb
+    03_07_desicion_tree_classifier.ipynb
     
-    03_07_LightGBM.ipynb
-    
-    03_08_desicion_tree_classifier.ipynb
-    
-    03_09_adaboost.ipynb
+    03_08_adaboost.ipynb
     
     04-model_selection.ipynb
     
